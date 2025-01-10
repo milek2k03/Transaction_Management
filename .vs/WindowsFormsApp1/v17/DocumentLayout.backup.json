@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity Projekty\\Transaction_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\unity projekty\\transaction_management\\windowsformsapp1\\ui\\addinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\addinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\services\\invoicepdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\services\\invoicepdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\editinvoiceform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\editinvoiceform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|F:\\Unity Projekty\\Transaction_Management\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{924C98D7-CDFC-4643-940F-2E22C89D72D5}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddInvoiceForm.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\AddInvoiceForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\AddInvoiceForm.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\AddInvoiceForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UI\\AddInvoiceForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:08:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditInvoiceForm .cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\EditInvoiceForm .cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\EditInvoiceForm .cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\EditInvoiceForm .cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UI\\EditInvoiceForm .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:30:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicePdfGenerator.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\InvoicePdfGenerator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\InvoicePdfGenerator.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\InvoicePdfGenerator.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\InvoicePdfGenerator.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAI8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:30:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:09:33.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\InvoiceService.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:09:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\stois\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UI\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:32:14.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\MainForm.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UI\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:07:49.575Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Projekt]",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\stois\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UI\\LoginForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:31:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Services\\UserService.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Services\\UserService.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Services\\UserService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:09:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SortForm.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\SortForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\SortForm.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\SortForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UI\\SortForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:08:16.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UI\\LoginForm.cs",
+              "ToolTip": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\UI\\LoginForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:07:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "F:\\Unity Projekty\\Transaction_Management\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\stois\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:04:42.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
