@@ -16,6 +16,7 @@ namespace InvoiceApp.Services
     public class Invoice
     {
         public int InvoiceId { get; set; }
+        public string CompanyName { get; set; }
         public string ClientName { get; set; }
         public string ClientEmail { get; set; }
         public string ClientNIP { get; set; }

@@ -33,6 +33,7 @@ namespace InvoiceApp.Services
                             stack.Item().Text($"Miasto: {invoice.ClientCity}");
                             stack.Item().Text($"Ulica: {invoice.ClientStreet}");
                             stack.Item().Text($"Numer Telefonu: {invoice.ClientPhone}");
+                            //dodac dane dla wystawiającego faktury
                         });
 
                         row.ConstantColumn(100).Image(Placeholders.Image(100, 100)); // Logo (możesz podmienić na plik)
@@ -46,6 +47,7 @@ namespace InvoiceApp.Services
                             row.RelativeColumn().Stack(innerStack =>
                             {
                                 innerStack.Item().Text("Wystawiono dla:").Bold();
+                                innerStack.Item().Text(invoice.CompanyName);
                                 innerStack.Item().Text(invoice.ClientName);
                                 innerStack.Item().Text(invoice.ClientStreet);
                                 innerStack.Item().Text($"{invoice.ClientPostalCode}, {invoice.ClientCity}");

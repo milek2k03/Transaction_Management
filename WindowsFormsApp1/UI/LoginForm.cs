@@ -84,5 +84,17 @@ namespace InvoiceApp.UI
                 MessageBox.Show("Registration failed. User may already exist.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // LoginForm
+            // 
+            this.ClientSize = new System.Drawing.Size(651, 416);
+            this.Name = "LoginForm";
+            this.ResumeLayout(false);
+
+        }
     }
 }
